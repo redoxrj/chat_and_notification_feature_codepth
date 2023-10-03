@@ -8,7 +8,7 @@ Hi! My name is **Rajnish Kumar**, I have made this real-time app using Reactjs ,
 
 ## Deployed
  Go ,checkout and explore this amazing real time chat web app 🚀
-**Netlify** Click [Here](https://clever-mandazi-b3ffed.netlify.app/ ) **ChatApp**
+**Netlify** Click [Here](https://651c1403a95bb5253268e326--superb-otter-524c7d.netlify.app/) **ChatApp**
 
 # Install Dependencies
 
